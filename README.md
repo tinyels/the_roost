@@ -3,17 +3,26 @@ the_roost
 
 CoderDojo Html training material
 
+step 0: base html with images and text from wikipedia
 
-commits indicate iterative steps of adding bootstrap enhancements to pages:
+step 1: create .small and use instead of inline styles
 
-Step 0 base html with images and text from wikipedia
-step 1 add one simple css class to reduce cut and paste (class named small)
-step 2 add bootstrap and jquery meta tags (show changes to layout)
-step 3 make images circular on index (add class named img-circle to images)
-step 4 put images in rows (each row in a div.class and add .span6 to li's)
-step 5  add hero-unit (not centered!)
-step 6 add container (breaks rows, so switch to span4 and thumbnail, add more complicated layout to each li)
-step 7 add nav bar to both
-step 8 add layout to buckeye
-step 9 added layout   (row-fluid, span)
-step 10 final touches (table and polaroid)
+step 2: add bootstrap to both pages
+
+step 3: use bootstrap css classes img-circle and img-polaroid
+
+step 4: add rows to index.html
+
+step 5: add hero-unit
+
+step 6: add container to center (breaks rows)
+
+step 6.5: add more complicated layout to each li to fix rows
+
+step 7: add nav bar
+
+step 8: add layout to buckeye
+
+step 9: add nav pill
+
+step 10: added styles to table
